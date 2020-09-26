@@ -2,3 +2,18 @@ This is my first line in my git tracked file.
 second change
 Agenda today:
 1. Collaborating with GitHub ( cloud based source code hosting)
+
+
+…or create a new repository on the command line
+echo "# git_project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/sklos7/git_project.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/sklos7/git_project.git
+git branch -M master
+git push -u origin master
