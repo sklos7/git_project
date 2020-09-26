@@ -19,3 +19,5 @@ You can initialize this repository with code from subvesion, mercurial or tftp
 git remote add origin https://github.com/sklos7/git_project.git
 git branch -M master
 git push -u origin master
+
+Changes from GitHub
