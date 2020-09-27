@@ -157,3 +157,5 @@ You can find the full instruction and video [here](https://www.jetbrains.com/hel
 * [GitHub Guides](https://guides.github.com/activities/hello-world/)
 * [CS50 - Git and GitHub (video)](https://youtu.be/eulnSXkhE7I)
 * [git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+
+making changes
